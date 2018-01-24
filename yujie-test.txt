@@ -3,3 +3,6 @@ yujie is a good girl 29
 hello world 
 public static void main(String [] args){
 }
+
+public interface hello{
+}
